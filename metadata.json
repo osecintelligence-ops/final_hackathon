@@ -1,0 +1,5 @@
+{
+  "name": "FIN hack-a-thon",
+  "description": "A Hybrid Health Insurance Engine adjusting premiums dynamically based on health behavior and AI-verified clinical data.",
+  "requestFramePermissions": []
+}
